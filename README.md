@@ -16,37 +16,4 @@ In this document, we provide a comprehensive guide to the Udagram Fullstack Proj
 
 http://mybucket540272431678.s3-website-us-east-1.amazonaws.com/home
 
-## Screenshots
-
-### Last Successful CircleCI Build
-
-![udagram](https://user-images.githubusercontent.com/103933344/219709773-110c893d-ef18-4bf2-b431-04bd132e787a.png)
-
-
-### AWS RDS for the Database Overview
-
-![udagram](https://user-images.githubusercontent.com/103933344/219710155-b3791345-6502-4b15-8946-de2ee0ee4b9c.png)
-
-
-### AWS ElasticBeanstalk for the (Backend) API Deployment
-
-![udagram](https://user-images.githubusercontent.com/103933344/219710604-f36352e1-9852-4d65-a04e-e135d03ddd23.png)
-
-
-### AWS S3 for (Frontend) Web Hosting
-
-![udagram](https://user-images.githubusercontent.com/103933344/219710829-ee05ff25-4979-45ae-b15a-e43ec1abdeae.png)
-
-
-
-## Docs Folder
-
-### Architecture Diagram
-
-![udagram-api-hosting](https://user-images.githubusercontent.com/103933344/219711088-7e6ee58f-cc5e-45b2-a170-8531b130623b.png)
-
-
-### Pipeline Overview
-
-![Blank diagram](https://user-images.githubusercontent.com/103933344/219717779-3ed3c89a-e4ae-48e5-93e6-954630eef2a9.png)
 
