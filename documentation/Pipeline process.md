@@ -43,3 +43,5 @@ The `udagram` workflow orchestrates the `build` and `deploy` jobs. It consists o
 This pipeline process ensures that the application is built and tested before it is deployed to Elastic Beanstalk. Manual approval is required before the deployment process starts to prevent any unintended consequences.
 
 ## Pipeline Diagram
+
+![Blank diagram](https://user-images.githubusercontent.com/103933344/219717779-3ed3c89a-e4ae-48e5-93e6-954630eef2a9.png)
