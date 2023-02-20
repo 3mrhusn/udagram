@@ -14,6 +14,6 @@ In this document, we provide a comprehensive guide to the Udagram Fullstack Proj
 
 ## Link to Hosted Frontend Application
 
-[http://mybucket540272431678.s3-website-us-east-1.amazonaws.com/home](http://mybucket540272431678.s3-website-us-east-1.amazonaws.com/home)
+[http://mybucket540272431678.s3-website-us-east-1.amazonaws.com](http://mybucket540272431678.s3-website-us-east-1.amazonaws.com)
 
 
