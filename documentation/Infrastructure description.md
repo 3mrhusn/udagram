@@ -16,14 +16,25 @@ This project uses CircleCI for continuous integration and deployment. The config
 
 ## Architecture Diagram
 
-![Architecture Diagram](/path/to/architecture-diagram.png)
+![udagram-api-hosting](https://user-images.githubusercontent.com/103933344/219711088-7e6ee58f-cc5e-45b2-a170-8531b130623b.png)
 
 ## Screenshots
 
-### Screenshot 1
+### Last Successful CircleCI Build
 
-![Screenshot 1](/path/to/screenshot1.png)
+![udagram](https://user-images.githubusercontent.com/103933344/220101256-6695d0b0-2762-4b1a-a77f-86bbe447c9f1.png)
 
-### Screenshot 2
 
-![Screenshot 2](/path/to/screenshot2.png)
+### AWS RDS for the Database Overview
+
+![udagram](https://user-images.githubusercontent.com/103933344/219710155-b3791345-6502-4b15-8946-de2ee0ee4b9c.png)
+
+
+### AWS ElasticBeanstalk for the (Backend) API Deployment
+
+![udagram](https://user-images.githubusercontent.com/103933344/219710604-f36352e1-9852-4d65-a04e-e135d03ddd23.png)
+
+
+### AWS S3 for (Frontend) Web Hosting
+
+![udagram](https://user-images.githubusercontent.com/103933344/219710829-ee05ff25-4979-45ae-b15a-e43ec1abdeae.png)
